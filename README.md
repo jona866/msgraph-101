@@ -16,12 +16,15 @@ Al final de este workshop:
 
 ## Video
 Acompáñanos en este video de guía y aprende visualmente.
+
 [![Video de guía](./images/MSGraph.jpg)](https://aka.ms/May10PoderDeDatosMicrosoftGraph "Video de guía")
 
 ## Contenido
 
 - [Introducción a Microsoft Graph.](content/graph-explorer.md)
 - [Graph Explorer](content/graph-explorer.md)
+
+- [Construcción del endpoint]()
 
 ## Recursos
 
