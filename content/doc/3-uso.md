@@ -140,3 +140,10 @@ El archivo CSV tiene los siguientes encabezados de columna.
 + Período del informe
 
 ## Ejemplo
+
+## Documentación completa
+
+[Teams](https://learn.microsoft.com/es-es/graph/api/reportroot-getteamsuseractivityuserdetail?view=graph-rest-1.0)
+[Outlook](https://learn.microsoft.com/es-es/graph/api/reportroot-getemailactivityuserdetail?view=graph-rest-1.0)
+[Sharepoint](https://learn.microsoft.com/es-es/graph/api/reportroot-getsharepointactivityuserdetail?view=graph-rest-1.0)
+[Yammer](https://learn.microsoft.com/es-es/graph/api/reportroot-getyammeractivityuserdetail?view=graph-rest-1.0&tabs=http)
