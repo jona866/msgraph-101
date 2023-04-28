@@ -11,12 +11,12 @@ https://graph.microsoft.com/v1.0/users/{userid}/drive
 https://graph.microsoft.com/v1.0/users/1afcd080-0396-4846-85c6cfa221b27879/drive/root?$expand=children($select=id,name,size)
 https://graph.microsoft.com/v1.0/users/1afcd080-0396-4846-85c6-cfa221b27879/drive/recent
 
-#### Descripción
-#### Solicitud HTTP
+## Descripción
+## Solicitud HTTP
 ```
 GET
 ```
-#### Requisitos
+## Requisitos
 
 | Requisito  | Valor | Descripción |
 | -----------| ----- | ----------- |
@@ -25,6 +25,6 @@ GET
 | Parámetro de función | date [fecha] | Especifica la fecha en que quiere ver los usuarios que realizaron alguna actividad. {date_value} necesita tener el formato de AAAA-MM-DD. Como este informe solo está disponible para los últimos 30 días, {date_value} tiene que ser una fecha de ese intervalo. |
 | Encabezados de solicitud | Authorization | Portador {token}. Obligatorio. | 
 
-#### Respuesta
-#### Ejemplo
+## Respuesta
+## Ejemplo
 
