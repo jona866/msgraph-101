@@ -11,7 +11,7 @@ Postman es una herramienta popular utilizada por desarrolladores y equipos de de
 
 Es una plataforma que permite realizar solicitudes HTTP a través de una interfaz de usuario intuitiva y proporciona una amplia gama de funcionalidades para simplificar el proceso de desarrollo y prueba de API.
 
-![Postman](images/postman.png)
+![Postman](/images/postman.png)
 
 #### Azure AD
 
@@ -19,4 +19,4 @@ Azure Active Directory (Azure AD) es el servicio de administración de identidad
 
 Permite a las organizaciones controlar el acceso de los usuarios a aplicaciones, servicios y recursos en la nube de Microsoft. Proporciona funcionalidades como la autenticación de usuarios, la autorización de acceso a recursos, la gestión de identidades, la federación de identidades, la administración de grupos y la integración con servicios y aplicaciones en la nube.
 
-![Azure AD](images/azuread.png)
+![Azure AD](/images/azuread.png)
