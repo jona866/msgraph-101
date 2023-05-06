@@ -19,6 +19,7 @@ https://learn.microsoft.com/es-es/graph/api/resources/report?view=graph-rest-1.0
 https://learn.microsoft.com/es-es/graph/api/calendar-list-calendarview?view=graph-rest-1.0&tabs=http
 
 ## Descripción
+Obtenga información sobre la actividad de usuario de Microsoft Teams, Outlook, Sharepoint y Yammer por usuario.
 ## Solicitud HTTP
 
 ### Teams

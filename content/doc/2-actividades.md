@@ -2,6 +2,9 @@
 ## Aplicaciones Microsoft 365 informes de uso
 [Documentación completa](https://learn.microsoft.com/es-es/graph/api/reportroot-getm365appuserdetail?view=graph-rest-1.0&tabs=http)
 #### Descripción
+
+Obtenga un informe que proporcione los detalles sobre qué aplicaciones y plataformas han usado los usuarios.
+
 #### Solicitud HTTP
 ```
 GET /reports/getM365AppUserDetail(period='{period_value}')

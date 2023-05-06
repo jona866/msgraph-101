@@ -12,9 +12,13 @@ https://graph.microsoft.com/v1.0/users/1afcd080-0396-4846-85c6cfa221b27879/drive
 https://graph.microsoft.com/v1.0/users/1afcd080-0396-4846-85c6-cfa221b27879/drive/recent
 
 ## Descripción
+
+Obtiene información sobre el uso de OneDrive por cuenta.
+
 ## Solicitud HTTP
 ```
-GET
+GET /reports/getOneDriveUsageAccountDetail(period='{period_value}')
+GET /reports/getOneDriveUsageAccountDetail(date={date_value})
 ```
 ## Requisitos
 
@@ -26,5 +30,21 @@ GET
 | Encabezados de solicitud | Authorization | Portador {token}. Obligatorio. | 
 
 ## Respuesta
+El archivo CSV tiene los siguientes encabezados de columna.
+
++ Fecha de actualización del informe
++ Dirección URL del sitio
++ Nombre para mostrar del propietario
++ Eliminado
++ Fecha de la última actividad
++ Número de archivos
++ Número de archivos activos
++ Almacenamiento usado (bytes)
++ Almacenamiento asignado (bytes)
++ Nombre principal de propietario
++ Período del informe
 ## Ejemplo
 
+[Docuentación completa](https://learn.microsoft.com/es-es/graph/api/reportroot-getonedriveusageaccountdetail?view=graph-rest-1.0)
+
+[Sharepoint](https://learn.microsoft.com/es-es/graph/api/reportroot-getsharepointsiteusagedetail?view=graph-rest-1.0)

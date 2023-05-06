@@ -46,3 +46,6 @@ El archivo CSV contendrá una larga variedad de encabezados de columna, sin emba
 ## Ejemplo 
 
 Use el parámetro de consulta $select para devolver un conjunto de propiedades diferente al predeterminado para un recurso individual o una colección de recursos. Con $select, puede especificar un subconjunto o un superconjunto de las propiedades predeterminadas.
+
+
+[Extra](https://learn.microsoft.com/es-es/graph/api/calendar-getschedule?view=graph-rest-1.0&tabs=http)
