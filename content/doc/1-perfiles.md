@@ -45,7 +45,16 @@ El archivo CSV contendrá una larga variedad de encabezados de columna, sin emba
 
 ## Ejemplo 
 
+Solicitud
+
+```
+GET https://graph.microsoft.com/v1.0/reports/getOffice365ActiveUserDetail(period='D7') 
+```
+
+
+
 Use el parámetro de consulta $select para devolver un conjunto de propiedades diferente al predeterminado para un recurso individual o una colección de recursos. Con $select, puede especificar un subconjunto o un superconjunto de las propiedades predeterminadas.
+
 
 
 [Extra](https://learn.microsoft.com/es-es/graph/api/calendar-getschedule?view=graph-rest-1.0&tabs=http)
