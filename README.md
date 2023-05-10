@@ -36,8 +36,8 @@ Microsoft Graph permite a desarrolladores acceder a una amplia variedad de datos
 A continuación, encontrarás información sobre Microsoft Graph y herramientas adicinales para la solución. 
 
 - [Introducción a Microsoft Graph.](content/graph-explorer.md)
+- 
 - [Graph Explorer](content/graph-explorer.md)
-
 - [Uso de la API](content/API.md)
 
 - [Postman]()
@@ -49,11 +49,11 @@ Acompáñanos en este video de guía y aprende visualmente.
 
 [![Video de guía](./images/MSGraph.jpg)](https://aka.ms/May10PoderDeDatosMicrosoftGraph "Video de guía")
 
+
+
 ## Recursos
 
-- [Graph Explorer](https://developer.microsoft.com/en-us/graph/graph-explorer) :computer:
-- [Documentación](https://learn.microsoft.com/es-es/graph/overview) :books:
-- [Organización en GitHub](https://github.com/microsoftgraph) :books: 
+
 - [Getting started with Microsoft Graph](https://youtube.com/playlist?list=PLWZJrkeLOrbY-OrrFV_oKezJ9O86oMNrf) :movie_camera: 
 - [Microsoft Graph Fundamentals for Beginners](https://youtube.com/playlist?list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt) :movie_camera: 
 - [Microsoft Graph training modules](https://youtube.com/playlist?list=PLWZJrkeLOrbbOve1DVVQsauZX2LN3IEHL) :movie_camera: 
