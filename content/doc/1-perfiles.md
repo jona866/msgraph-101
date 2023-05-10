@@ -28,20 +28,55 @@ De acuerdo a la documentación, si se ejecuta correctamente, este método devuel
 
 Las URL de descarga con autenticación previa solo son válidas durante un breve período de tiempo (unos minutos) y no necesitan un encabezado Authorization para descargarlas.
 
-El archivo CSV contendrá una larga variedad de encabezados de columna, sin embargo, no todos son necesarios para la solución. A continuación se enlistan aquellos que son relevantes: 
+El archivo CSV contendrá una larga variedad de encabezados de columna, sin embargo, no todos son necesarios para la solución. A continuación se enlistan:  
 
-+ Fecha de actualización del informe
-+ Nombre principal de usuario
-+ Nombre para mostrar
-+ Eliminado
-+ Fecha de eliminación
-+ Fecha de la última actividad de Exchange
-+ Fecha de la última actividad de OneDrive
-+ Fecha de la última actividad de SharePoint
-+ Fecha de la última actividad de Skype Empresarial
-+ Fecha de la última actividad de Yammer
-+ Fecha de la última actividad de Teams
-+ Productos asignados
+ + Fecha de actualización del informe
+ + Nombre principal de usuario
+ + Nombre para mostrar
+ + Eliminado
+ + Fecha de eliminación
+ + Tiene una licencia de Exchange
+ + Tiene una licencia de OneDrive
+ + Tiene de licencia de SharePoint
+ + Tiene una licencia de Skype Empresarial
+ + Tiene una licencia de Yammer
+ + Tiene una licencia de Teams
+ + Fecha de la última actividad de Exchange
+ + Fecha de la última actividad de OneDrive
+ + Fecha de la última actividad de SharePoint
+ + Fecha de la última actividad de Skype Empresarial
+ + Fecha de la última actividad de Yammer
+ + Fecha de la última actividad de Teams
+ + Fecha de asignación de licencia de Exchange
+ + Fecha de asignación de licencia de licencia de OneDrive
+ + Fecha de asignación de licencia de SharePoint
+ + Fecha de asignación de licencia de Skype Empresarial
+ + Fecha de asignación de licencia de Yammer
+ + Fecha de asignación de licencia de Teams
+ + Productos asignadosFecha de actualización del informe
+ + Nombre principal de usuario
+ + Nombre para mostrar
+ + Eliminado
+ + Fecha de eliminación
+ + Tiene una licencia de Exchange
+ + Tiene una licencia de OneDrive
+ + Tiene de licencia de SharePoint
+ + Tiene una licencia de Skype Empresarial
+ + Tiene una licencia de Yammer
+ + Tiene una licencia de Teams
+ + Fecha de la última actividad de Exchange
+ + Fecha de la última actividad de OneDrive
+ + Fecha de la última actividad de SharePoint
+ + Fecha de la última actividad de Skype Empresarial
+ + Fecha de la última actividad de Yammer
+ + Fecha de la última actividad de Teams
+ + Fecha de asignación de licencia de Exchange
+ + Fecha de asignación de licencia de licencia de OneDrive
+ + Fecha de asignación de licencia de SharePoint
+ + Fecha de asignación de licencia de Skype Empresarial
+ + Fecha de asignación de licencia de Yammer
+ + Fecha de asignación de licencia de Teams
+ + Productos asignados
 
 ## Ejemplo 
 
@@ -51,6 +86,7 @@ Solicitud
 GET https://graph.microsoft.com/v1.0/reports/getOffice365ActiveUserDetail(period='D7') 
 ```
 
+![Grap Explorer con solicitud de perfiles activos](../../images/PerfilE.png)
 
 
 Use el parámetro de consulta $select para devolver un conjunto de propiedades diferente al predeterminado para un recurso individual o una colección de recursos. Con $select, puede especificar un subconjunto o un superconjunto de las propiedades predeterminadas.

@@ -14,11 +14,6 @@ Esto implica la obtención de datos por rango de fechas definidas por el usuario
 
 [Aplicaciones Microsoft 365 informes de uso](../content/doc/2-actividades.md)
 
-https://learn.microsoft.com/es-es/graph/outlook-get-shared-events-calendars
-https://learn.microsoft.com/es-es/graph/api/resources/report?view=graph-rest-1.0
-
-https://learn.microsoft.com/es-es/graph/api/calendar-list-calendarview?view=graph-rest-1.0&tabs=http
-
 
 ## Tiempo de actividades 
 
