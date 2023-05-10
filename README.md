@@ -58,6 +58,8 @@ Acompáñanos en este video de guía y aprende visualmente.
 - [Microsoft Graph Fundamentals for Beginners](https://youtube.com/playlist?list=PLWZJrkeLOrbbmGIW-7znaSpRinp8d-1Dt) :movie_camera: 
 - [Microsoft Graph training modules](https://youtube.com/playlist?list=PLWZJrkeLOrbbOve1DVVQsauZX2LN3IEHL) :movie_camera: 
 - [Get started with Microsoft Graph](https://youtube.com/playlist?list=PLWZJrkeLOrbYS34TuCMMd9rVrQlAWLquF) :movie_camera: 
+- [SDK de Microsoft Graph](https://learn.microsoft.com/es-mx/graph/sdks/sdks-overview)
+
 
 ## Feedback
 Contestando esta encuesta, nos ayudarás a mejorar :)
